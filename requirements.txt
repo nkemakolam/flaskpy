@@ -1,6 +1,6 @@
 click==7.1.2
 flash==1.0.3
-Flask==1.1.2
+Flask==2.2.5
 flask-marshmallow==0.14.0
 Flask-SQLAlchemy==2.5.1
 greenlet==1.0.0
